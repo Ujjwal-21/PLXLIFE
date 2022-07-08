@@ -30,9 +30,11 @@ If then also they have some doubts then a chatbot is available for 24 X 7 hours.
 ![Screenshot 2022-07-08 at 8 50 38 PM](https://user-images.githubusercontent.com/88342385/178023949-f4fdb1ce-6195-487d-9c78-bf752cd6ebae.png)
 ![Screenshot 2022-07-08 at 8 50 56 PM](https://user-images.githubusercontent.com/88342385/178024112-b6b2f8ab-2d15-464b-b639-2d5553fd1db7.png)
 
-# Service Page : 
+# Premium Calculator Page: 
 
-![Screenshot 2022-06-27 at 4 32 03 PM](https://user-images.githubusercontent.com/88342385/175927010-368db063-1fd2-4a42-acab-69142a184c9d.png)
+![Screenshot 2022-07-08 at 8 53 33 PM](https://user-images.githubusercontent.com/88342385/178024491-240b13b2-b9bc-40e2-a752-beed404864e4.png)
+![Screenshot 2022-07-08 at 8 51 54 PM](https://user-images.githubusercontent.com/88342385/178024776-0f66452f-5ed9-4e95-83a0-4868001b509a.png)
+![Screenshot 2022-07-08 at 8 53 20 PM](https://user-images.githubusercontent.com/88342385/178024705-b372a378-3ffd-4a8e-a068-230b0e17f2bf.png)
 
 
 # Chat With Us (Chatbot) Page :
