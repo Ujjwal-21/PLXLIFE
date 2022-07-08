@@ -2,14 +2,15 @@
 <br>
 <h1>
 To run this website  click on this link below <br>
-https://happy-glacier-05ff15010.1.azurestaticapps.net
+https://orange-pond-0a6d2d910.1.azurestaticapps.net
 </h1>
 
-#  KOVID HEALTH INFORMATION CENTRE 
+#  PLX LIFE INSURANCE 
 
-KOVID HEALTH INFORMATION is one of the most popular health information centre which basically focus on COVID related information like active cases , deaths etc.<br>
-It also provides services like vaccination, check up, treatment etc.<br>
-To make that easy for customers a website is built from where they can get any information like covid cases statistics, which services are available and many more.<br>
+PLX Life Insurance is one of the top life insurance company of our country.<br>
+It is continiously serving citizens of the country since 45 years.<br>
+To reach to customers as much as close possible a website is built from where they can get any information like policy details, which policies are available and many more.<br>
+Even if they provide their age,term,sum assured and select the policy they will come to know how much premium they have to per year from the website.<br>
 If then also they have some doubts then a chatbot is available for 24 X 7 hours. Just go to ‘Chat with Us’ and write question , chatbot will provide answer related to it.<br>
 
 ## Languages And Services Used:
