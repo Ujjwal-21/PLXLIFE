@@ -36,6 +36,11 @@ If then also they have some doubts then a chatbot is available for 24 X 7 hours.
 ![Screenshot 2022-07-08 at 8 51 54 PM](https://user-images.githubusercontent.com/88342385/178024776-0f66452f-5ed9-4e95-83a0-4868001b509a.png)
 ![Screenshot 2022-07-08 at 8 53 20 PM](https://user-images.githubusercontent.com/88342385/178024705-b372a378-3ffd-4a8e-a068-230b0e17f2bf.png)
 
+#  About Us Page:
+![Screenshot 2022-07-08 at 8 54 02 PM](https://user-images.githubusercontent.com/88342385/178043115-04d1fc93-8ed6-43ab-b20d-09d8b2bee109.png)
+
+#  Contact Us Page:
+![Screenshot 2022-07-08 at 8 54 19 PM](https://user-images.githubusercontent.com/88342385/178043247-21478650-82a5-4f1e-b9b9-b58575185ae6.png)
 
 # Chat With Us (Chatbot) Page :
 
