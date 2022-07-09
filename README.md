@@ -44,9 +44,8 @@ If then also they have some doubts then a chatbot is available for 24 X 7 hours.
 
 # Chat With Us (Chatbot) Page :
 
-![Screenshot 2022-06-27 at 4 34 33 PM](https://user-images.githubusercontent.com/88342385/175927465-c0f6c915-1117-4bf4-8b75-6f62f748461f.png)
-![Screenshot 2022-06-27 at 4 47 37 PM](https://user-images.githubusercontent.com/88342385/175930132-5b0f4824-f4b8-4714-bb05-d0c98db0f7d8.png)
-![Screenshot 2022-06-27 at 4 49 29 PM](https://user-images.githubusercontent.com/88342385/175930163-c15ded85-91b2-435b-a09d-b2be3cc0ab4c.png)
+![Screenshot 2022-07-09 at 8 00 09 AM](https://user-images.githubusercontent.com/88342385/178088432-f9d6b709-f49f-4fca-99fa-18d9e90cecce.png)
+![Screenshot 2022-07-09 at 8 01 40 AM](https://user-images.githubusercontent.com/88342385/178088435-541b1139-b0d7-4574-b549-aa4d29dfed6d.png)
 
 
 <br>
