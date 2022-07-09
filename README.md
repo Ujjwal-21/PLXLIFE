@@ -53,7 +53,7 @@ If then also they have some doubts then a chatbot is available for 24 X 7 hours.
 # U CAN CHECK THE VIDEO FOR THIS PROJECT BY CLICKING ON THE LINK BELOW
 <br>
 
-# [Project video](https://www.youtube.com/watch?v=QvtYK93Mr_U)
+# [Project video](https://youtu.be/djaVxMZB8g4)
 
 <br>
 
